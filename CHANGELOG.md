@@ -1,5 +1,19 @@
 # Changelog
 
+## [2026.4.2](https://github.com/jdx/mise/compare/v2026.4.1..v2026.4.2) - 2026-04-03
+
+### 🚀 Features
+
+- **(exec)** add process sandboxing for mise x and mise run by @jdx in [#8845](https://github.com/jdx/mise/pull/8845)
+
+### 📚 Documentation
+
+- fix values for RUNTIME.osType and RUNTIME.archType. Simplify examples by @esteve in [#8785](https://github.com/jdx/mise/pull/8785)
+
+### New Contributors
+
+- @esteve made their first contribution in [#8785](https://github.com/jdx/mise/pull/8785)
+
 ## [2026.4.1](https://github.com/jdx/mise/compare/v2026.4.0..v2026.4.1) - 2026-04-02
 
 ### 🚀 Features
